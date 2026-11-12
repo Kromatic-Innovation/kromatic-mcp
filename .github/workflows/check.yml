@@ -13,6 +13,8 @@ permissions:
 
 jobs:
   check:
+    # The organisation requires a status check with this exact name on main.
+    name: CI Required
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

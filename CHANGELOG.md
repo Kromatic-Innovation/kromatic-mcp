@@ -7,6 +7,11 @@ listing material, not the servers themselves.
 
 ## Unreleased
 
+### Changed
+
+- The CI job now reports as `CI Required`, the status check name the
+  organisation requires on `main`.
+
 ## 1.0.0 - 2026-11-12
 
 ### Added
