@@ -1,0 +1,16 @@
+{
+  "name": "kromatic-mcp",
+  "version": "1.0.0",
+  "description": "Kromatic's remote MCP servers: Neumann (Monte Carlo simulation), Fermi (calibrated estimates) and Krobot (test ideas before you build).",
+  "mcpServers": {
+    "neumann": {
+      "httpUrl": "https://neumann.kromatic.com/mcp"
+    },
+    "fermi": {
+      "httpUrl": "https://fermi.kromatic.com/mcp"
+    },
+    "krobot": {
+      "httpUrl": "https://api.kromatic.com/mcp/krobot"
+    }
+  }
+}
